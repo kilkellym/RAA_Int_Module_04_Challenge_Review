@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_04_Challenge_Review - Command 1</Text>
+    <Description>Some description for RAA_Int_Module_04_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_04_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_04_Challenge_Review.Command1</FullClassName>
+    <ClientId>3310d161-703c-4afb-9f46-5215489bfe3a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_04_Challenge_Review - Command 2</Text>
+    <Description>Some description for RAA_Int_Module_04_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_04_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_04_Challenge_Review.Command2</FullClassName>
+    <ClientId>ff2f01cd-fca7-42d9-a56b-2495f3003ee1</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_04_Challenge_Review - Command 3</Text>
+    <Description>Some description for RAA_Int_Module_04_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_04_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_04_Challenge_Review.Command3</FullClassName>
+    <ClientId>A170E500-FB06-4D4E-86B4-28CA654EB45D</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_04_Challenge_Review - Command 4</Text>
+    <Description>Some description for RAA_Int_Module_04_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_04_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_04_Challenge_Review.Command4</FullClassName>
+    <ClientId>449FF5E7-0F1C-4900-91C3-E94A14C4239F</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
